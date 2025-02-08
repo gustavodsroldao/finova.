@@ -10,7 +10,7 @@ Findi é um SaaS de gestão financeira desenvolvido em Next.js, projetado para a
 - 🏷️ **Orçamentos e metas**: Estabeleça limites e acompanhe seus gastos.
 - 📅 **Gestão de faturas e assinaturas**: Nunca mais perca um pagamento importante.
 - 🔐 **Segurança e privacidade**: Seus dados protegidos com criptografia e autenticação segura.
-- 🤳 **Integração com IA**: Receba um relatório de suas despesas detalhadamente.
+- 🤳 **Integração com IA**: Receba um relatório de suas despesas e ganhos detalhadamente.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -18,6 +18,7 @@ Findi é um SaaS de gestão financeira desenvolvido em Next.js, projetado para a
 - **Back-end:** Node.js
 - **Banco de Dados:** PostgreSQL com Prisma
 - **Autenticação:** NextAuth
+- **Sistema de planos:** Stripe
 
 ## 📦 Instalação
 
@@ -52,10 +53,10 @@ Estamos abertos a sugestões e feedback! Se quiser contribuir, sinta-se à vonta
 
 📜 Licença
 
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sob a GPLv3 License.
 
 
 ---
 
-Desenvolvido por Gustavo da Silveira. 
+Desenvolvido por Gustavo da Silveira Roldão. 
 
