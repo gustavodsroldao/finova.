@@ -5,39 +5,132 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d28f87d7-6e33-4ba5-a854-0ff05ca93d05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discordrp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/finova.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finova/app/login/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finova/app/subscription/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finova/app/transactions/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finova/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/finova/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.prettierrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/.prettierrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/finova/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/_lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/_lib/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/fonts/GeistMonoVF.woff" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/fonts/GeistMonoVF.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/fonts/GeistVF.woff" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/fonts/GeistVF.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/subscriptions/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/app/transactions/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/components.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/finova/components/ui/button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/finova/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/app-build-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/build-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development-fallback/0.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development-fallback/1.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development-fallback/index.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development-fallback/index.pack.gz.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/0.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/1.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/2.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/3.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/4.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/5.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/6.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/client-development/index.pack.gz.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/server-development/0.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/server-development/1.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/server-development/2.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/server-development/3.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/server-development/4.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/server-development/index.pack.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/cache/webpack/server-development/index.pack.gz.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/react-loadable-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app-paths-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app/_not-found/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app/_not-found/page_client-reference-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app/favicon.ico/route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app/login/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app/login/page_client-reference-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/app/page_client-reference-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/interception-route-rewrite-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/middleware-build-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/middleware-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/middleware-react-loadable-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/next-font-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/next-font-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/pages-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/server-reference-manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/server-reference-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/vendor-chunks/@radix-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/vendor-chunks/@swc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/vendor-chunks/class-variance-authority.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/vendor-chunks/clsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/vendor-chunks/next.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/vendor-chunks/tailwind-merge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/server/webpack-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/app-pages-internals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/app/_not-found/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/app/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/app/login/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/app/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/main-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/chunks/webpack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/css/app/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/development/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/development/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/media/4473ecc91f70f139-s.p.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/media/463dafcda517f24f-s.p.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/0b8621a2f0602161.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/1e113257c60d8d75.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/29f4dbd59fcde8f7.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/4ef83059b099dc82.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/528a64dc35e32e44.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/529943da727c32e9.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/633457081244afec._.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/726d4f480456c3db.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.0b8621a2f0602161.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.29f4dbd59fcde8f7.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.4ef83059b099dc82.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.726d4f480456c3db.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.cd6eeda8cc1b70bc.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.f444c511ee8e0059.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.f69b618f4a8ad969.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/app/layout.f7b8eb334316664a.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/cd6eeda8cc1b70bc.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/d094cdb9dfab6522.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/f444c511ee8e0059.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/f69b618f4a8ad969.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/f7b8eb334316664a.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.0b8621a2f0602161.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.1e113257c60d8d75.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.29f4dbd59fcde8f7.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.4ef83059b099dc82.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.528a64dc35e32e44.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.529943da727c32e9.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.726d4f480456c3db.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.cd6eeda8cc1b70bc.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.d094cdb9dfab6522.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.f444c511ee8e0059.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.f69b618f4a8ad969.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/static/webpack/webpack.f7b8eb334316664a.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/types/app/layout.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/types/app/login/page.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/types/app/page.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/.next/types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finova/next-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.prettierrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/_lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/_lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/fonts/GeistMonoVF.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/fonts/GeistMonoVF.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/fonts/GeistVF.woff" beforeDir="false" afterPath="$PROJECT_DIR$/app/fonts/GeistVF.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/subscriptions/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/subscriptions/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/transactions/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/transactions/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_components/ui/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/finova/postcss.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/finova/tailwind.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,29 +155,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Gustavo/Documents/GitHub/finova/public",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.dev.executor": "Run",
-    "prettier.import.notification.dismissed": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\Gustavo\\Documents\\GitHub\\finova\\finova\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gustavo/Documents/GitHub/finova/public&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;prettier.import.notification.dismissed&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Gustavo\\Documents\\GitHub\\finova\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gustavo\Documents\GitHub\finova\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gustavo\Documents\GitHub\finova\app" />
+      <recent name="C:\Users\Gustavo\Documents\GitHub\finova" />
       <recent name="C:\Users\Gustavo\Documents\GitHub\finova\public" />
     </key>
   </component>
@@ -125,6 +221,7 @@
       <workItem from="1739399948665" duration="31000" />
       <workItem from="1739399985758" duration="1072000" />
       <workItem from="1739401066692" duration="809000" />
+      <workItem from="1739402359589" duration="398000" />
     </task>
     <servers />
   </component>
