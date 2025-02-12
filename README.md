@@ -1,4 +1,4 @@
-# Findi - Gestão Financeira Inteligente
+# finova. - Gestão Financeira Inteligente
 
 Findi é um SaaS de gestão financeira desenvolvido em Next.js, projetado para ajudar indivíduos e empresas a organizarem suas finanças de forma eficiente e intuitiva.
 
