@@ -12,6 +12,9 @@ Findi é um SaaS de gestão financeira desenvolvido em Next.js, projetado para a
 - 🔐 **Segurança e privacidade**: Seus dados protegidos com criptografia e autenticação segura.
 - 🤳 **Integração com IA**: Receba um relatório de suas despesas e ganhos detalhadamente.
 
+## 📚 Figma
+https://www.figma.com/design/wQKv47CxafJOw1TmNrYGrg/finova.?node-id=57-1074&t=2OtuhMKOAJduCBkR-1
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Front-end:** Next.js, React, Tailwind CSS
