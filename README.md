@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# finova. - Gestão Financeira Inteligente
 
-## Getting Started
+Findi é um SaaS de gestão financeira desenvolvido em Next.js, projetado para ajudar indivíduos e empresas a organizarem suas finanças de forma eficiente e intuitiva.
 
-First, run the development server:
+## ✨ Recursos
+
+- 📊 **Dashboard interativo**: Visão geral das finanças com gráficos e insights.
+- 💸 **Controle de receitas e despesas**: Categorize e acompanhe suas transações.
+- 🔄 **Integração com bancos**: Importação automática de extratos bancários (Em breve).
+- 🏷️ **Orçamentos e metas**: Estabeleça limites e acompanhe seus gastos.
+- 📅 **Gestão de faturas e assinaturas**: Nunca mais perca um pagamento importante.
+- 🔐 **Segurança e privacidade**: Seus dados protegidos com criptografia e autenticação segura.
+- 🤳 **Integração com IA**: Receba um relatório de suas despesas e ganhos detalhadamente.
+
+## 📚 Figma
+https://www.figma.com/design/wQKv47CxafJOw1TmNrYGrg/finova.?node-id=57-1074&t=2OtuhMKOAJduCBkR-1
+
+## 🚀 Tecnologias Utilizadas
+
+- **Front-end:** Next.js, React, Tailwind CSS
+- **Back-end:** Node.js
+- **Banco de Dados:** PostgreSQL com Prisma
+- **Autenticação:** NextAuth
+- **Sistema de planos:** Stripe
+
+## 📦 Instalação
+
+Clone o repositório e instale as dependências:
 
 ```bash
+git clone https://github.com/seu-usuario/findi.git
+cd findi
+npm install
+
+Crie um arquivo .env.local com as variáveis de ambiente necessárias e inicie o servidor:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Acesse o aplicativo em http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📌 Roadmap
 
-## Learn More
+[ ] Implementação de relatórios financeiros
 
-To learn more about Next.js, take a look at the following resources:
+[ ] Suporte para múltiplas moedas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[ ] Aplicativo mobile (React Native / Flutter)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[ ] Outras melhorias planejadas
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🤝 Contribuições
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Estamos abertos a sugestões e feedback! Se quiser contribuir, sinta-se à vontade para abrir um issue ou enviar um pull request.
+
+📜 Licença
+
+Este projeto está licenciado sob a GPLv3 License.
+
+
+---
+
+Desenvolvido por Gustavo da Silveira Roldão. 
