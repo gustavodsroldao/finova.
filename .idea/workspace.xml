@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d28f87d7-6e33-4ba5-a854-0ff05ca93d05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discordrp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/finova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finova/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finova/app/subscription/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finova/app/transactions/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finova/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/finova/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.prettierrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/.prettierrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/finova/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/_lib/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/_lib/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/fonts/GeistMonoVF.woff" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/fonts/GeistMonoVF.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/fonts/GeistVF.woff" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/fonts/GeistVF.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/finova/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/subscriptions/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/app/transactions/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/components/ui/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/finova/components/ui/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/finova/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/postcss.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/finova/postcss.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/finova/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/finova/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sxVsRcC07sVhE4fRuWIIPPw6VV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Gustavo/Documents/GitHub/finova/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "prettier.import.notification.dismissed": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\Gustavo\\Documents\\GitHub\\finova\\finova\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gustavo\Documents\GitHub\finova\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gustavo\Documents\GitHub\finova\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/finova/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d28f87d7-6e33-4ba5-a854-0ff05ca93d05" name="Changes" comment="" />
+      <created>1739397418699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739397418699</updated>
+      <workItem from="1739397419768" duration="96000" />
+      <workItem from="1739397539871" duration="2396000" />
+      <workItem from="1739399948665" duration="31000" />
+      <workItem from="1739399985758" duration="1072000" />
+      <workItem from="1739401066692" duration="809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
