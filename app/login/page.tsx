@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Button } from "../_components/ui/button";
 import { LogInIcon } from "lucide-react";
+import { SignInButton } from "@clerk/nextjs";
 
 const LoginPage = async () => {
     return (
@@ -20,10 +21,12 @@ const LoginPage = async () => {
                     Facilitando o controle do seu dinheiro de um jeito
                     simples e inteligente.
                 </p>
+                <SignInButton>
                     <Button variant="outline">
                         <LogInIcon className="mr-2" />
                         Fazer login ou criar conta
                     </Button>
+                </SignInButton>
             </div>
         </div>
     );
