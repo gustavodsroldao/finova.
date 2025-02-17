@@ -20,7 +20,7 @@ https://www.figma.com/design/wQKv47CxafJOw1TmNrYGrg/finova.?node-id=57-1074&t=2O
 - **Front-end:** Next.js, React, Tailwind CSS
 - **Back-end:** Node.js
 - **Banco de Dados:** PostgreSQL com Prisma
-- **Autenticação:** NextAuth
+- **Autenticação:** Clerk
 - **Sistema de planos:** Stripe
 
 ## 📦 Instalação
